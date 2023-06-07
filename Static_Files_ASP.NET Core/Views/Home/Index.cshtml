@@ -1,0 +1,145 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-left">
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+
+        <!-- Declared Vars To Go Here -->
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Metadata -->
+       
+
+        <link rel="icon" href="mysource_files/favicon.ico">
+
+        <!-- Page Name and Site Name -->
+        <title>Page Name - Squiz Matrix HTML Example</title>
+
+        <!-- CSS -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+        <link href="mysource_files/style.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <header class="header clearfix" style="background-color: #ffffff">
+
+                <!-- Main Menu -->
+                <nav>
+                    <ul class="nav nav-pills pull-right">
+                        <li class="active"><a href="#">Home</a></li>
+                        <li><a href="#">Privacy</a></li>
+                    </ul>
+                </nav>
+
+                <!-- Site Name -->
+                <div class="text-center">
+
+                <h1 class="h3 text-muted">STATIC FILES WITH ASP.NET CORE</h1>
+                </div>
+                <!-- Breadcrumbs -->
+                <ol class="breadcrumb">
+                    <li><a href="#">Home</a></li>
+                 
+                </ol>
+
+            </header>
+
+            @*<div class="page-heading">
+
+                <!-- Page Heading -->
+                <h1>Page Heading</h1>
+
+            </div>*@
+
+            <div class="row">
+
+                <div class="col-sm-3">
+
+                    <!-- Sub Navigation -->
+                    <ul class="nav nav-pills nav-stacked">
+                        <li class="active">
+                            <a href="#">TOPICS</a>
+                            <ul>
+                     <li><a href="#">What are static files?</a></li>
+                                <li><a href="#">Where should we place these static files?</a></li>
+                    <li><a href="#">How should we use these static files in the project?</a></li>
+                                <li><a href="#">Which middleware should be used?</a></li>
+                            </ul>
+                        </li>
+                        
+                    </ul>
+
+                </div>
+
+                <div class="col-sm-9">
+
+                    <div class="page-contents">
+
+                        <!-- Design Body -->
+                        <h2>What are static files?</h2>
+                        <p>In the modern world, any web app must contain the below files for 
+                            the look and feel of the project or as per the project requirement. 
+                            To use these files inside the .Net project here are the simple steps to use these files inside the API Project.In ASP.NET Core, static files are served directly by the web server without being processed by the application. This is useful for serving files such as HTML, CSS, JavaScript, images, and other resources that don't require server-side processing.
+                        </p>
+                        <ul>
+                        <li >Images</li>
+                        <li>HTML Files</li>
+                        <li>CSS Files</li> 
+                        <li>Javascript Files</li>
+                    </ul>
+                        
+                        <h3>Where should we place these static files?</h3>
+                        <p>We can place the static files anywhere inside the project solution.The Default folder is wwwroot folder</p>
+                        <h3>How should we use these static files in the project?</h3>
+                        <p>To serve static files in an ASP.NET Core application, you need to configure the static file middleware. Here's how you can do it:</p>
+                        <img src="Images/image1.png"  alt="Image One"/> 
+                        <p>By default, the UseStaticFiles middleware looks for static files in the wwwroot folder at the root of your project. Create this folder if it doesn't exist and place your static files inside it.</p>
+                        <img src="Images/image2.png"  alt="Image Two"/>
+                        <p>Once the static file middleware is configured, you can access your static files directly using their URLs. For example, if you have a file named styles.css inside the css folder, you can access it at http://localhost/css/styles.css.</p>
+                        <img src="Images/image3.png"  alt="Image Three"/>
+                        <p>By default, the static file middleware serves files with the MIME type based on their file extensions. For example, CSS files will have the text/css MIME type. If you need to serve files with custom MIME types, you can configure it using the StaticFileOptions:</p>
+                        <img src="Images/image4.png"  alt="Image Four"/>
+                        <h3>Which middleware should be used?</h3>
+                        <p>
+                            app.UseStaticFiles();
+                        </p>
+                    </div>
+
+                </div>
+
+               @* <div class="col-sm-3">
+
+                    <!-- Login Section -->
+                    <h2>Login</h2>
+
+                    <!-- Search Section -->
+                    <h2>Search</h2>
+
+                    <!-- Nested Right Column Content -->
+
+                </div>*@
+
+            </div>
+
+            <footer class="footer">
+                <p class="pull-right">
+                    <!-- Last Updated Design Area-->
+                    Last Updated: Wednesday, June 07, 2023
+                </p>
+                <p>&copy; 2023 Company, Inc.</p>
+            </footer>
+
+        </div> <!-- /container -->
+
+    </body>
+</div>

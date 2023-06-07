@@ -1,0 +1,31 @@
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\bin\Debug\net6.0\Static_Files_ASP.NET Core.staticwebassets.runtime.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\bin\Debug\net6.0\Static_Files_ASP.NET Core.exe
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\bin\Debug\net6.0\Static_Files_ASP.NET Core.deps.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\bin\Debug\net6.0\Static_Files_ASP.NET Core.runtimeconfig.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\bin\Debug\net6.0\Static_Files_ASP.NET Core.dll
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\bin\Debug\net6.0\Static_Files_ASP.NET Core.pdb
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.AssemblyInfo.cs
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\staticwebassets\msbuild.Static_Files_ASP.NET Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\staticwebassets\msbuild.build.Static_Files_ASP.NET Core.props
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Static_Files_ASP.NET Core.props
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Static_Files_ASP.NET Core.props
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\scopedcss\bundle\Static_Files_ASP.NET Core.styles.css
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\scopedcss\projectbundle\Static_Files_ASP.NET Core.bundle.scp.css
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.dll
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\refint\Static_Files_ASP.NET Core.dll
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.pdb
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\Static_Files_ASP.NET Core.genruntimeconfig.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\Static_Files_ASP.NET Core\Static_Files_ASP.NET Core\obj\Debug\net6.0\ref\Static_Files_ASP.NET Core.dll
